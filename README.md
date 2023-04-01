@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <h1> Oi! Sou o Guilherme</h1>
+</div>
 
-<!--
-**Gui-HR/Gui-HR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+ 🤓 Gosto de aprender coisas novas
+ 
+ 📚 Estudando Desenvolvimento Web
+ 
+ 🔎 Em busca de me profissionalizar
+ </div>
+ 
+ <div align="center">
+     
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-HR&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-HR&layout=compact&langs_count=8&theme=dark"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
