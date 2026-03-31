@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Guilherme
 
-Tenho 20 anos, estudo programação mais focana na parte de desenvolvimento web, mas tenho grande vontade de aprender mais sobre outras areas da programação, busco me profissionalizar pois acredito que a melhor forma de se trabalhar é com trabalhando com algo que gostamos de fazer, dessa forma é possível entregar melhores resultados e atingir grandes niveis de realização pessoal.
+Tenho 22 anos, estou voltando a estudar programação agora, meu foco é na parte de desenvolvimento web (front-end), mas tenho grande vontade de aprender mais sobre outras areas da programação, busco me profissionalizar pois acredito que a melhor forma de se trabalhar é com trabalhando com algo que gostamos de fazer, dessa forma é possível entregar melhores resultados e atingir grandes niveis de realização pessoal.
 
 <br>
 
